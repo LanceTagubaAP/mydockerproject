@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKERHUB_USERNAME/mydockerproject:latest
+          tags: lnctgb/mydockerproject:latest
